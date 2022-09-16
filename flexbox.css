@@ -1,0 +1,11 @@
+.holdAll{
+    background-color: brown;
+    padding: 10px;
+    display: flex;
+}
+.child{
+    width: 200px;
+    height: 250px;
+    background-color: whitesmoke;
+    margin: 10px;
+}
